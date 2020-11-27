@@ -15,6 +15,8 @@
 1. 'Pre-rants' worden niet gewaardeerd. Dat bezorger x een pakketje gaat leveren is nog geen rant.
 1. In #rant is logica niet van toepassing.
 1. Je beroept je niet op regels in de CoC die niet (nog) bestaan.
+1. Dubbelposts worden slechts toegestaan indien ze een algemeen nut dienen, herhaling behoeven, ook thuis horen in een specifiek kanaal (waar ze eerder dus niet waren gepost).
+1. Een dubbelpost kan worden gemarkeerd met een reacji :alarm: en/of :female-police-officer: ter indicatie dat deze reeds gepost is. 
 
 ## Discord specifiek
 1. [Voice channels] Schreeuw niet en maak geen harde of vervelende geluiden. Je weet nooit hoe hard het volume 'aan de andere kant' staat.
